@@ -19,7 +19,7 @@ DateTime=time.strftime("%d/%m/%Y %H:%M:%S",time.localtime(time.time()))#used in 
 print("*"*80)
 print(LogoDate+"\t\t"+"Welcome to Movie Ticket Booking App"+"\t"+' '+Logoclock)
 print("*"*80)
-print("\t\t\t\t\t\t"+'Developed by Mohit Patnaik')
+print("\t\t\t\t\t\t"+'Developed by Kedarnath Kunda')
 print(' ')
 
 #price details against Ticket Category
